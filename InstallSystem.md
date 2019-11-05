@@ -14,5 +14,7 @@ ubuntu16.04有两个版本，一个是Desktop版本，另一个是Server版本�
 
 我们首先创建master节点。
 
-![创建虚拟机](image\create-vm.png)
+![1-创建虚拟机](https://tvax2.sinaimg.cn/mw690/006gkjMely1g8naz8e0mlj317k0q3ta0.jpg)
+
+​	
 
