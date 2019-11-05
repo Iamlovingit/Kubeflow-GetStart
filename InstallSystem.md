@@ -14,5 +14,5 @@ ubuntu16.04有两个版本，一个是Desktop版本，另一个是Server版本�
 
 我们首先创建master节点。
 
-![创建虚拟机]( https://github.com/Iamlovingit/Kubeflow-GetStart/blob/master/image/create-vm.png)
+![创建虚拟机](image\create-vm.png)
 
